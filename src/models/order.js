@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-// A
+// order schema
 const orderSchema = new mongoose.Schema(
   {
     user: {
